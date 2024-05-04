@@ -1,6 +1,8 @@
 # Wheat Purity Measurement Project 🌐
 💻 This repository contains a crystal clear approach for creating a CNN Wheat Purity Measurement system with lowest amount of data gathering.
 
+[![Watch the video](https://img.youtube.com/vi/mN5CY_-RAEs/0.jpg)](https://www.youtube.com/watch?v=mN5CY_-RAEs)
+
 ## Steps
 👉 0. Setting up our tools
 👉 1. Extracting seeds and miscs with shadow
