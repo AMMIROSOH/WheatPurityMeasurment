@@ -4,10 +4,10 @@ __pycache__/
 *$py.class
 
 # data
-*.jpg
+data/objects/ .jpg
+data/augmented/
 *.png
-*.zip
-*.rar
+# *.rar
 
 # C extensions
 *.so
